@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "../../../../Components/Button";
 import Inputfield from "../../../../Components/Inputfield";
-import { IMAGES } from "../../../../Utils/Images";
+import { IMAGES } from "../../../../Utils/images";
 // import { useFilePicker } from "use-file-picker";
 
 const RightSection = () => {
