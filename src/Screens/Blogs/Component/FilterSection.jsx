@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import InputField from "../../../Components/InputField";
+import InputField from "../../../Components/Inputfield";
 import { IMAGES } from "../../../Utils/images";
 import { NavLink } from "react-router-dom";
 import AnimatedDiv from "../../../Components/Animation";
